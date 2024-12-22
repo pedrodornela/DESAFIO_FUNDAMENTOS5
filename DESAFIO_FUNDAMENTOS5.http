@@ -1,0 +1,6 @@
+@DESAFIO_FUNDAMENTOS5_HostAddress = http://localhost:5067
+
+GET {{DESAFIO_FUNDAMENTOS5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
